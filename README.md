@@ -126,7 +126,7 @@ Retail_Business_Performance_Analysis/
 3. Use the report slicers to explore year, month, region, category, and sales channel.
 4. Navigate across the four report pages to explore executive, sales, product/customer, and operational performance.
 
-## Author Oladotun Olawale
+## Author: Oladotun Olawale
 
 **Data Analytics Portfolio Project**
 
