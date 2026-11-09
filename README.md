@@ -117,8 +117,6 @@ Retail_Business_Performance_Analysis/
 ├── README.md
 ├── powerbi/
 │   └── Retail_Business_Performance_Analysis.pbix
-├── data/
-│   └── 
 ```
 
 ## How to Explore the Project
